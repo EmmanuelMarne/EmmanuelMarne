@@ -8,7 +8,9 @@
 
 </br></br>
 
-## Mi nombre es Emmanuel
+<div id="user-content-toc">
+  <summary><h2>Mi nombre es Emmanuel</h2></summary>
+</div>
 Actualmente estoy terminando mis estudios en el desarrollo IT 👨‍🎓📱 como Fullstack Developer 🖥👾
 
 </br>
@@ -17,12 +19,12 @@ desde chico me a gustado pasar mi tiempo libre navegando por la web, chateando o
 
 </br>
 
-## Mis Logros
+### Mis Logros
 Me eh desarrollado en el área de atención al cliente en los últimos 4 años, trabajando siempre en una computadora 👨‍💼😊, eh tenido buenos resultados en esos años, brindando la mejor calidad al cliente, escuchando con atención sus necesidades y resultado esperado que mejor requiera y así poder tener en un tiempo optimo el trabajo esperado ✨
 
 </br>
 
-## Ahora...
+### Ahora..
 En este ultimo año me eh desarrollado en el área IT trabajando en proyectos académicos desarrollando SPA solo y en equipo utilizando REACT, Redux, Express, Sequelize, PostgreSQL y mas complementos
 
 </br>
