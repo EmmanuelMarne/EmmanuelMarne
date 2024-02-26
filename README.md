@@ -6,8 +6,7 @@
 
 </br></br>
 
-
-<h2>Mi nombre es Emmanuel</h2>
+## <p>Mi nombre es Emmanuel</p>
 
 Actualmente estoy terminando mis estudios en el desarrollo IT 👨‍🎓📱 como Fullstack Developer 🖥👾
 
