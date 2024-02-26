@@ -34,7 +34,7 @@ En este ultimo año me eh desarrollado en el área IT trabajando en proyectos ac
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,express,github,html,js,nodejs,react,redux,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,express,sequelize,postgres,github,html,js,nodejs,react,redux,vscode&perline=14" />
   </a>
 </p>
 
