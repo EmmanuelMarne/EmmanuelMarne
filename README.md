@@ -16,13 +16,13 @@ desde chico me a gustado pasar mi tiempo libre navegando por la web, chateando o
 
 </br>
 
-### Mis Logros
-Me eh desarrollado en el área de atención al cliente en los últimos 4 años, trabajando siempre en una computadora 👨‍💼😊, eh tenido buenos resultados en esos años, brindando la mejor calidad al cliente, escuchando con atención sus necesidades y resultado esperado que mejor requiera y así poder tener en un tiempo optimo el trabajo esperado ✨
+### Mis Logros 🥇
+Me eh desarrollado en el área de atención al cliente en los últimos 4 años, trabajando siempre en una computadora 👨‍💼😊, eh tenido buenos resultados en esos años, brindando la mejor calidad al cliente, escuchando con atención sus necesidades, pensando y analizando el resultado que se requiere y así poder tener en un tiempo optimo el trabajo esperado. ✨
 
 </br>
 
-### Ahora..
-En este ultimo año me eh desarrollado en el área IT trabajando en proyectos académicos desarrollando SPA solo y en equipo utilizando REACT, Redux, Express, Sequelize, PostgreSQL y mas complementos
+### Ahora.. 📌
+En este ultimo año me eh desarrollado en el área IT trabajando en proyectos académicos desarrollando SPA trabajando solo y en equipo utilizando REACT, Redux, Express, Sequelize, PostgreSQL y mas tecnologías
 
 </br>
 
