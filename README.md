@@ -12,17 +12,17 @@ Actualmente estoy terminando mis estudios en el desarrollo IT 👨‍🎓📱 co
 
 </br>
 
-desde chico me a gustado pasar mi tiempo libre navegando por la web, chateando o escuchando música, y en todo ese tiempo me eh dado cuenta de la evolución que han tenido los programas, aplicación y paginas web, es por eso que me gustaría ser yo ahora quien brinde esas experiencias y herramientas 😁🤞
+desde chico me a gustado pasar mi tiempo libre navegando por la web, chateando o escuchando música, y en todo ese tiempo me eh dado cuenta de la evolución que han tenido los programas, aplicación y páginas web, es por eso que me gustaría ser yo ahora quien brinde esas experiencias y herramientas 😁🤞
 
 </br>
 
 ### Mis Logros 🥇
-Me eh desarrollado en el área de atención al cliente en los últimos 4 años, trabajando siempre en una computadora 👨‍💼😊, eh tenido buenos resultados en esos años, brindando la mejor calidad al cliente, escuchando con atención sus necesidades, pensando y analizando el resultado que se requiere y así poder tener en un tiempo optimo el trabajo esperado. ✨
+Me eh desarrollado en el área de atención al cliente en los últimos 4 años, trabajando siempre en una computadora 👨‍💼😊, eh tenido buenos resultados en esos años, brindando la mejor calidad al cliente, escuchando con atención sus necesidades, pensando y analizando el resultado que se requiere y así poder tener en un tiempo optimo el trabajo esperado, ✨ con eso eh ganado que la gente recomendara más los servicios de la tienda en un 10%
 
 </br>
 
-### Ahora.. 📌
-En este ultimo año me eh desarrollado en el área IT trabajando en proyectos académicos desarrollando SPA trabajando solo y en equipo utilizando REACT, Redux, Express, Sequelize, PostgreSQL y mas tecnologías
+### Ahora... 📌
+En este último año me eh desarrollado en el área IT desarrollando proyectos académicos como SPA y API REST, trabajando solo y en equipo, utilizando REACT, Redux, Express, Sequelize, PostgreSQL y mas tecnologías. Esto me ayudo a tener conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, frameworks CSS y otras más competencias.
 
 </br>
 
