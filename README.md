@@ -4,25 +4,27 @@
   </ul>
 </div>
 
+<p align="center">
+  <a href="mailto:manumtz.job@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/5215612828043" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/manuong" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://discord.gg/vbWjxCkkxM" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  <a hfer="https://open.spotify.com/playlist/1TO5Q0dWZSm4sHJ4LDUfqe?si=a12b9269276540f5 target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+</p>
+
 </br>
 
 ## <p>Mi nombre es Emmanuel</p>
 
-Actualmente estoy terminando mis estudios en el desarrollo IT 👨‍🎓📱 como Fullstack Developer 🖥👾
+Actualmente llevo 2 años en el desarrollo IT 👨‍🎓📱 como Fullstack Developer 🖥👾
 
-</br>
+###
 
 desde chico me a gustado pasar mi tiempo libre navegando por la web, chateando o escuchando música, y en todo ese tiempo me eh dado cuenta de la evolución que han tenido los programas, aplicación y páginas web, es por eso que me gustaría ser yo ahora quien brinde esas experiencias y herramientas 😁🤞
-
-</br>
-
-### Mis Logros 🥇
-Me eh desarrollado en el área de atención al cliente en los últimos 4 años, trabajando siempre en una computadora 👨‍💼😊, eh tenido buenos resultados en esos años, brindando la mejor calidad al cliente, escuchando con atención sus necesidades, pensando y analizando el resultado que se requiere y así poder tener en un tiempo optimo el trabajo esperado, ✨ con eso eh ganado que la gente recomendara más los servicios de la tienda en un 10%
-
-</br>
-
-### Ahora... 📌
-En este último año me eh desarrollado en el área IT desarrollando proyectos académicos como SPA y API REST, trabajando solo y en equipo, utilizando REACT, Redux, Express, Sequelize, PostgreSQL y mas tecnologías. Esto me ayudo a tener conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, frameworks CSS y otras más competencias.
 
 </br>
 
@@ -34,23 +36,15 @@ En este último año me eh desarrollado en el área IT desarrollando proyectos a
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,express,sequelize,postgres,github,html,js,nodejs,react,redux,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,sequelize,postgres,mongodb,tailwind,vscode,visualstudio,github&perline=14" />
   </a>
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Contactos 🤝</h2></summary>
-  </ul>
-</div>
+<br><br>
 
-<!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/manuong" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<!-- <a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a> -->
-<a href="https://discord.gg/vbWjxCkkxM" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuong&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 
