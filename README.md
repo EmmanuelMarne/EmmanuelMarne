@@ -4,8 +4,6 @@
   </ul>
 </div>
 
-<br>
-
 ## <p>Mi nombre es Emmanuel</p>
 
 Actualmente llevo 2 años en el desarrollo IT 👨‍🎓📱 como Fullstack Developer 🖥👾
