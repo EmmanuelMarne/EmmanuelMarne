@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1>console.log("Hello Word 👋")</h1></summary>
+    <summary><h1>console.log("Hello World 👋")</h1></summary>
   </ul>
 </div>
 
