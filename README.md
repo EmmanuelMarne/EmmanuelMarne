@@ -43,8 +43,8 @@ desde chico me a gustado pasar mi tiempo libre navegando por la web, chateando o
 <br><br>
 
 <p align="center">
-  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuong&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuong&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 
